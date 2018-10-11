@@ -2,4 +2,6 @@
 ------------------------------
 
 
-une demo de git sur github qui est tr�s interessant
+une demo de git sur github qui est très interessant
+
+je suis prêt a tout connaître sur le github
